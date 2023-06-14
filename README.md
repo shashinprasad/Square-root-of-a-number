@@ -31,7 +31,7 @@ sqrt()
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+
 ![image](https://github.com/shashinprasad/Square-root-of-a-number/assets/129143499/c59a38ec-448b-4edc-88c8-62b67f92af39)
 
 
